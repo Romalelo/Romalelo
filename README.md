@@ -2,7 +2,7 @@
   
 - 👋 Hi, I’m @Romalelo
 - 👀 I’m interested in creating games
-- 🌱 I’m currently learning Python, C++ and C#
+- 🌱 I’m currently learning Python, Docker
 
 <!---
 Romalelo/Romalelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
